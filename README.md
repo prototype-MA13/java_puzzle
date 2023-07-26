@@ -8,6 +8,8 @@ Cómo Jugar
 2. Para mover una pieza, haz clic en ella y luego en la posición a la que deseas moverla.
 3. Continúa moviendo las piezas hasta que completes la imagen original.
 
+![Captura](https://github.com/prototype-MA13/java_puzzle/blob/main/capturas/1.png)
+
 Requisitos del Sistema
 Java 8 o superior.
 
